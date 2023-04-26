@@ -3,7 +3,7 @@ description: Generate a new Bloc the way I like it :3.
 
 repository: https://github.com/Metal-666/my_flutter_bricks
 
-version: 0.0.2
+version: 0.0.3
 
 environment:
   mason: ">=0.1.0-dev.49 <0.1.0"
