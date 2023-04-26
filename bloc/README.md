@@ -14,21 +14,20 @@ Then import `bloc/root/home/home.dart` as `home_bloc`.
 
 ## Variables ✨
 
-| Variable | Description                 | Default | Type     |
-| -------- | --------------------------- | ------- | -------- |
-| `name`   | New Bloc name               |         | `string` |
-| `path`   | New Bloc subpath            | `/`     | `string` |
+| Variable | Description   | Default | Type     |
+| -------- | ------------- | ------- | -------- |
+| `name`   | New Bloc name | `root`  | `string` |
+| `path`   | New Bloc path | `root`  | `string` |
 
 ## Output 📦
 
 ```sh
 └── bloc
     └── [path]
-        └── [name]
-            ├── [name].dart
-            ├── bloc.dart
-            ├── events.dart
-            └── state.dart
+        ├── [name].dart
+        ├── bloc.dart
+        ├── events.dart
+        └── state.dart
 ```
 
 *README based on https://github.com/felangel/bloc/blob/master/bricks/bloc/README.md :3*
