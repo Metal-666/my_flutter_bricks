@@ -1,0 +1,20 @@
+name: bloc
+description: Generate a new Bloc the way I like it :3.
+
+repository: https://github.com/Metal-666/my_flutter_bricks
+
+version: 0.0.1
+
+environment:
+  mason: ">=0.1.0-dev.49 <0.1.0"
+
+vars:
+  name:
+    type: string
+    description: New Bloc name
+    prompt: What are we calling this Bloc? [snake_case]
+  path:
+    type: string
+    description: New Bloc subpath
+    default: /
+    prompt: What is the subpath for this Bloc gonna be? [path/example]
