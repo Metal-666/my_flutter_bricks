@@ -10,7 +10,7 @@ Generate a new Bloc the way I like it :3.
 mason make bloc --name home --path root/home
 ```
 
-Then import `bloc/root/home/home.dart` as `home_bloc`.
+Then import `bloc/root/home/home.dart` as `home`.
 
 ## Variables ✨
 
