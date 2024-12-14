@@ -7,6 +7,7 @@ Generate a new Bloc the way I like it :3.
 ## Usage 🚀
 
 ```sh
+mason add bloc --git-url https://github.com/Metal-666/my_flutter_bricks --git-path bloc
 mason make bloc --name home --path root/home
 ```
 
@@ -30,4 +31,4 @@ Then import `bloc/root/home/home.dart` as `home`.
         └── state.dart
 ```
 
-*README based on https://github.com/felangel/bloc/blob/master/bricks/bloc/README.md :3*
+_README based on https://github.com/felangel/bloc/blob/master/bricks/bloc/README.md :3_
