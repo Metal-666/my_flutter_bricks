@@ -23,12 +23,13 @@ Then import `bloc/root/home/home.dart` as `home`.
 ## Output 📦
 
 ```sh
-└── bloc
-    └── [path]
-        ├── [name].dart
-        ├── bloc.dart
-        ├── events.dart
-        └── state.dart
+└── lib
+    └── bloc
+        └── [path]
+            ├── [name].dart
+            ├── bloc.dart
+            ├── events.dart
+            └── state.dart
 ```
 
 _README based on https://github.com/felangel/bloc/blob/master/bricks/bloc/README.md :3_

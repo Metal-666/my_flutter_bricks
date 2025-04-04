@@ -1,0 +1,21 @@
+name: settings
+description: Generate a settings script file.
+
+repository: https://github.com/Metal-666/my_flutter_bricks
+
+version: 0.0.1
+
+environment:
+  mason: ^0.1.0
+
+vars:
+  name:
+    type: string
+    description: Settings file name
+    default: settings
+    prompt: What will be the name of the settings file? [snake_case]
+  path:
+    type: string
+    description: Settings file path
+    default: data
+    prompt: Where should the settings file be placed? [path/example]

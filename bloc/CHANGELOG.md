@@ -1,3 +1,8 @@
+# 0.0.4
+
+- Updated mason version constraints.
+- Updated README.md and LICENSE year.
+
 # 0.0.3
 
 - Added LICENSE.

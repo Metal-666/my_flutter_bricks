@@ -16,3 +16,5 @@ mason make bloc analysis_options
 ```sh
 └── analysis_options.yaml
 ```
+
+_README based on https://github.com/felangel/bloc/blob/master/bricks/bloc/README.md :3_
