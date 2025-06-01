@@ -1,4 +1,4 @@
-library {{name}};
+library;
 
 import 'package:flutter_bloc/flutter_bloc.dart' as flutter_bloc;
 

@@ -1,3 +1,7 @@
+# 0.0.5
+
+- Removed library name from the 'library' directive (no longer needed since Flutter update).
+
 # 0.0.4
 
 - Updated mason version constraints.
