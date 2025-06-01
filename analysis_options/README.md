@@ -8,7 +8,7 @@ Generate my favourite analysis options :3.
 
 ```sh
 mason add analysis_options --git-url https://github.com/Metal-666/my_flutter_bricks --git-path analysis_options
-mason make bloc analysis_options
+mason make analysis_options
 ```
 
 ## Output 📦
